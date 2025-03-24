@@ -1,13 +1,13 @@
 # Voron 0.2 URBI-Siboor Kit
 
-![Image](https://github.com/user-attachments/assets/1971bdef-e779-420a-b3c1-409b069ddda5)
+![Image](https://github.com/user-attachments/assets/617bef89-685a-48aa-9488-b3c721480939)
 
 This is a mod of the splitted URBI design of Maple Leaf Makers so it could be printed in your V0:  
 https://www.printables.com/model/955328-v0-upper-rear-bowden-inlet-urbi-for-voron-v0-split
 
 The mod reuses the stock parts provided in the Siboor V0.2 kit for the filament foot switch (Version Aug 2023) except the ECAS fitting :  
 
-![Image](https://github.com/user-attachments/assets/97f5e500-aaab-47d4-8490-bd2b061d166f)
+![Image](https://github.com/user-attachments/assets/503e91ec-40ec-4cc5-b60f-1441ddf96865)
 
 ## BOM and Printing Parts:  
 ```
