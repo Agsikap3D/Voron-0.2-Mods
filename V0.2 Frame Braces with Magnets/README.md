@@ -18,7 +18,7 @@ https://www.printables.com/model/854181-voron-v0-01-02-r1-frame-bracing-hex-edit
 ```
 4 pcs - M3x8 Bolts BHCS 
 4 pcs - M3 Nuts
-2 pcs - Ø6mm x 3mm Magnets N52 (Can use lower rating, but it will be a weaker magnet)
+2 pcs - Ø6mm x 3mm Neodymium Magnets N52 (Can use lower rating, but it will be a weaker magnet)
 2 pcs - Printed Parts:
         1 - LH Brace
         1 - RH Brace  
