@@ -2,7 +2,7 @@
 :warning: Preloading of M3 nuts is needed!  
 :warning: Compatible with 3mm panels only!
 
-![Image](https://github.com/user-attachments/assets/1de26b08-b639-48dd-b7e4-f878b115a023)
+![Image](https://github.com/user-attachments/assets/4bb06ecc-dbfa-441f-aa21-8635ab1cf7a6)
 
 This is a remix of the Voron V0 Stealth Handles by Maple Leaf Makers :  
 https://www.printables.com/model/481575-voron-v0-stealth-handles
@@ -15,7 +15,7 @@ https://www.printables.com/model/481575-voron-v0-stealth-handles
         2 - Handles 
 ```
 - Voron parts print settings
-- No supports
+- No supports  
 - STL files are already oriented for printing  
 - Material: ASA or ABS recommended
 
@@ -25,11 +25,11 @@ https://www.printables.com/@Agsikap3D_2775778
 # Installation Notes:  
 1.) Replaces existing top middle clip of side panels.  
 
-![Image](https://github.com/user-attachments/assets/abeebc79-d3d3-4485-96e5-70c4b3a48598)
+![Image](https://github.com/user-attachments/assets/6346d1ec-3d52-4911-b8d7-8cfae584a4fe)
 
 2.) Preloading is necessary for this mod. So plan ahead!  
 
-![Image](https://github.com/user-attachments/assets/7751a07e-fa55-469f-ae2d-84a9a7fa1b01)
+![Image](https://github.com/user-attachments/assets/556b781c-ed34-483b-9e62-171ead238633)
 
 3.) Overall width increase: 242.1mm => 270.8mm (28.7mm increase).  
 
