@@ -1,4 +1,7 @@
 # Voron 0.2 Hexy Stealth Thermistor Mount
+:warning: This mod requires a threaded end hole for one of the Z extrusions.  
+:warning: This mod requires a new backplate with a hole for passing the wires. (Printer specific, there are tons of mods online)  
+
 ![Image](https://github.com/user-attachments/assets/d2abddae-3259-4e9d-8e1b-cd5648da2176)
 
 Custom thermistor bracket that hides the wires and has a hexagon flavor.  
@@ -23,9 +26,6 @@ You can also access the STL files thru my printables page:
 https://www.printables.com/@Agsikap3D_2775778
 
 # Installation Notes:
-:warning: This mod requires a threaded end hole for one of the Z extrusions.  
-:warning: This mod requires a new backplate with a hole for passing the wires. (Printer specific, there are tons of mods online)  
-
 ![Image](https://github.com/user-attachments/assets/4d7274df-f9e5-4bbe-9dd9-842fc33f7917)
 
 - You could use the other side by using the mirror command to the body in slicer.
