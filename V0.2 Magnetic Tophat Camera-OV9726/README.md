@@ -46,7 +46,8 @@ https://www.printables.com/model/659597-chirpys-v02-lift-off-tophat-hinges-with-
         AR - 1515 Printed Extrusion Covers
 
 Optionals:
-1 pc - 3mm Braided Sleeve
+1 pc - Ø3mm Braided Sleeve (For the exposed camera wires)
+1 pc - USB Extension Cable (If the included USB cable is 0.5m, it is not enough) 
 AR - Modified Auxiliary Fan Top Mounts
 
 AR => As Required
@@ -64,9 +65,9 @@ You can also access the STL files thru my printables page:
 https://www.printables.com/@Agsikap3D_2775778
 
 # Installation Notes:
-1.) Assembly Instructions:  
-2.) Tips and recommendations are stated in the instruction manual.  
-2.) Review the assembly instruction and check the STP model (If possible) before proceeding to actual assembly. 
+1.) Review the [Assembly Instructions](./Assembly_Instructions.md) and check the STP model (If possible) before proceeding to actual assembly.  
+
+2.) ✔️Recommendations and ⚠️Warnings are stated in the assembly instructions.  
 
 If you have any requests, feel free to reach out to me:  
 agsikap3d@gmail.com
