@@ -1,4 +1,4 @@
-# Voron-0.2-Frame-Braces-with-Magnet
+# Voron 0.2 Frame Braces with Magnet
 :warning: Preloading of M3 nuts is needed!
 
 ![Image](https://github.com/user-attachments/assets/a25a9541-220f-4b7a-a604-46c49d20a6e0)
