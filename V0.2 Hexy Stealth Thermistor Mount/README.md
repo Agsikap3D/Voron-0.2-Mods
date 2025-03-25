@@ -29,7 +29,7 @@ https://www.printables.com/@Agsikap3D_2775778
 ![Image](https://github.com/user-attachments/assets/4d7274df-f9e5-4bbe-9dd9-842fc33f7917)
 
 - You could use the other side by using the mirror command to the body in slicer.
-- The fit is supposed to be tight. If it is too tight, you can ream the hole using a Ø3mm drill bit.
+- The thermistor fit is slightly tight. If it is too tight, you can ream the hole using a Ø3mm drill bit.
 - Pre-supported CAD, no need additional supports.  
 - If the pre-supported print doesn't work due to tolerances, use the regular STL and print as you desired.
   
