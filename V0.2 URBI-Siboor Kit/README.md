@@ -30,8 +30,12 @@ Recommended print settings unless specified :
 - STL files are already oriented for printing
 
 ## Assembly Notes:
-1.) Refer to the STP file if you need further information.
+1. Refer to the STP file if you need further information.
 
 ## Releases
+
+Rev 1 (Sept 6, 2025)
+-  Updated **Backplate - LH** PTFE fitting hole: Ø6 ➜ Ø5
+
 Rev 0 (March 24, 2025)
 -  Initial release
